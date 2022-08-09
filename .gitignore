@@ -4,3 +4,5 @@
 **/build
 **/.gradle
 **/venv
+**/target
+**/.DS_Store
