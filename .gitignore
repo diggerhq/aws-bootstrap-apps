@@ -6,3 +6,8 @@
 **/venv
 **/target
 **/.DS_Store
+**/vendor
+**/Homestead.json
+**/Homestead.yaml
+**/.env
+**/.phpunit.result.cache
